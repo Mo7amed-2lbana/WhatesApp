@@ -1,0 +1,19 @@
+.portfolio{
+    translate:-100% ;
+    transition: .5s;
+    z-index: 99999999999999;
+}
+
+.head{
+    background-color: #008069;
+}
+
+.picture{
+    height: 200px;
+    background-color: #EAF2F5;
+}
+
+.img{
+    left: 50%;
+    bottom: -25%;
+}
